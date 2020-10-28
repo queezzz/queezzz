@@ -1,7 +1,7 @@
-### Hi there 👋 :pineapple:
+### :octocat: Hi there 👋 
 
-- :blue_book: I am a student studying Math & Stats 
-- 🔭 Interested in data analytics, ML/AI and computer sciences
-- 🌱 Always learning to improve coding! 
-- ⚡ Fun fact: I like pineapples! :pineapple: 
+- I am a student studying Math & Stats :blue_book: 
+- Interested in analytics and AI 🔭  
+- Always learning to improve my coding skills! 🌱  
+- I like pineapples and Shakespeares :pineapple: 
  
